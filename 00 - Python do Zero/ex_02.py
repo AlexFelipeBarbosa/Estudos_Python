@@ -22,3 +22,6 @@ for dia in range(1,11): # Criar o dia [1,2,3,4,5,6,7,8,9,10]
     print('Estoque suficiente!')
     
 print('Esse bloco')
+
+
+# Tempo do video: 1:17:36
